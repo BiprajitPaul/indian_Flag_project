@@ -1,0 +1,23 @@
+.orange{
+    width: auto;
+    height: 245px;
+    background-color: orange;
+}
+.white{
+    width: auto;
+    height: 245px;
+    background-color: white;
+}
+.white img{
+    width:239px;
+    position: relative;
+    left: 573px;
+    top: 2px
+}
+.green{
+    width: auto;
+    height: 245px;
+    background-color: green;
+    
+    
+}
