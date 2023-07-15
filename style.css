@@ -8,11 +8,16 @@
     height: 245px;
     background-color: white;
 }
-.white img{
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image img{
     width:239px;
-    position: relative;
-    left: 573px;
-    top: 2px
+    
+
+
 }
 .green{
     width: auto;
